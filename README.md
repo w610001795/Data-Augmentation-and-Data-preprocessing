@@ -1,6 +1,6 @@
 # Data-Augmentation-and-Data-preprocessing    
-Python 2.7.12：Some samll tools of the preprocessing of DeepLearning to process and argument your dataset      
-'.PNG' image is for example, others can also be done.
+* Python 2.7.12：Some samll tools of the preprocessing of DeepLearning to process and argument your dataset      
+* `'.png'` image is for example, others can also be done.
 ## findthemandmove.py
 This program is designed to achieve data naming rules in the process of Deep Learning Data Preprocessing. It can find files which contain specified information (just your input) in batches and move them to the specified directory in batches.    
 ## number.py
