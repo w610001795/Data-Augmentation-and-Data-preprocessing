@@ -4,7 +4,7 @@
 ## findthemandmove.py
 This program is designed to achieve data naming rules in the process of Deep Learning Data Preprocessing. It can find files which contain specified information (just your input) in batches and move them to the specified directory in batches.    
 ## number.py
-It is so easy that this is just to number the number of one folder.This function has great demand, especially when large amounts of image data are preprocessed.
+It is so easy that this is just to number the number of files in one folder.This function has great demand, especially when large amounts of image data are preprocessed.
 ## Random_data.py
 Randomly extract the specified number of data in the generated dataset and store it in the specified folder.
 ## data_rorate.py and rorate.py
